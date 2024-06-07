@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinnacle Publications books piracy check</string>
+    <string name="choose_online_mode">Choose Online Mode</string>
+    <string name="app_logo">Your App Logo Text</string>
+
+    <string-array name="online_mode_array">
+        <item>Amazon</item>
+        <item>FlipKart</item>
+        <item>Other Websites</item>
+    </string-array>
+</resources>
